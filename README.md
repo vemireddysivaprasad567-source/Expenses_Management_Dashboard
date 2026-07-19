@@ -72,9 +72,9 @@ The dataset contains:
 
 **Expense_Management_Dashboard_Excel**
 
-*Expense_Management_Dashboard.xlsm
-*dashboard.png
-*README.md
+ - Expense_Management_Dashboard.xlsm
+ - dashboard.png
+ - README.md
 
 
 ## 👨‍💻 Author
