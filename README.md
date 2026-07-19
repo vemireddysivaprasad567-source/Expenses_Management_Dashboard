@@ -8,7 +8,8 @@ An interactive **Expense Management Dashboard** built using **Microsoft Excel** 
 
 > Upload a screenshot of your Dashboard sheet as **dashboard.png** in this repository.
 
-![Dashboard](dashboard.png)
+![Dashboard]<img width="1477" height="585" alt="Dashboard" src="https://github.com/user-attachments/assets/121f16f5-b693-4869-ae4c-e99e6b97c703" />
+
 
 ## 🚀 Project Features
 
