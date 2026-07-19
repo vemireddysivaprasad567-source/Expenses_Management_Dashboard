@@ -70,10 +70,11 @@ The dataset contains:
 ## 📁 Repository Structure
 
 
-Expense_Management_Dashboard_Excel/
-│── Expense_Management_Dashboard.xlsm/
-│── dashboard.png/
-│── README./
+**Expense_Management_Dashboard_Excel**
+
+*Expense_Management_Dashboard.xlsm
+*dashboard.png
+*README.md
 
 
 ## 👨‍💻 Author
